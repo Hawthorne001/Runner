@@ -1,7 +1,7 @@
 {
   "main": "lib/index.js",
   "scripts": {
-    "start": "npm run shell",
+    7"start": "npm run shell",
     "compile": "tsc",
     "build": "tsc",
     "build:clean": "rm -rf ./lib",
